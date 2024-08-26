@@ -12,7 +12,7 @@
 <div align="center">
   
   <a href="www.linkedin.com/in/soham-patil-58b966282">
-  <img src = "https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" height="80" alt="LinkendIn"/>
+  <img src = "https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" height="50" alt="LinkendIn"/>
   </a>
 
 </div>
