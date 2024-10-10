@@ -18,6 +18,9 @@
     <a href="https://www.linkedin.com/in/soham-patil-58b966282">
       <img src = "https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" height="55" alt="LinkendIn"/>
     </a>
+    <a href="https://www.instagram.com/soham_satyajit/">
+      <img src = "https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" height="55" alt="Instagram"/>
+    </a>&nbsp;&nbsp;&nbsp;
 </div>
 
 <!---
