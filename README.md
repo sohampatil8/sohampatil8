@@ -13,11 +13,12 @@
 <div align="center">
   
   <a href="https://soham-profile.ssp1008.online/">
-  <img src = "https://www.vectorlogo.zone/logos/google/google-icon.svg" height="50" alt="LinkendIn"/>
-  </a>
-<a href="https://www.linkedin.com/in/soham-patil-58b966282">
-  <img src = "https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" height="70" alt="LinkendIn"/>
-  </a>
+  <img src = "https://www.vectorlogo.zone/logos/google/google-icon.svg" height="50" alt="Google"/>
+  </a></div>
+<div align="center">
+    <a href="https://www.linkedin.com/in/soham-patil-58b966282">
+      <img src = "https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" height="70" alt="LinkendIn"/>
+    </a>
 </div>
 
 <!---
