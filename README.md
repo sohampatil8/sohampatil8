@@ -13,7 +13,7 @@
 <div align="center">
   
   <a href="https://soham-profile.ssp1008.online/">
-  <img src = "https://www.vectorlogo.zone/logos/google/google-icon.svg" height="50" alt="Google"/>
+  <img src = "https://www.vectorlogo.zone/logos/google/google-ar21.svg" height="40" alt="Google"/>
   </a></div>
 <div align="center">
     <a href="https://www.linkedin.com/in/soham-patil-58b966282">
