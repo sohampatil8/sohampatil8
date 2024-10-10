@@ -16,7 +16,7 @@
   <img src = "https://www.vectorlogo.zone/logos/google/google-ar21.svg" height="50" alt="Google"/>
   </a>
     <a href="https://www.linkedin.com/in/soham-patil-58b966282">
-      <img src = "https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" height="50" alt="LinkendIn"/>
+      <img src = "https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" height="60" alt="LinkendIn"/>
     </a>
 </div>
 
