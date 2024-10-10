@@ -12,8 +12,8 @@
 ### 🔗 Social Links: Click on logo
 <div align="center">
   
-  <a href="https://soham-profile.ssp1008.onine">
-  <img src = "https://www.vectorlogo.zone/logos/google/google-icon.svg" height="30" alt="LinkendIn"/>
+  <a href="[https://soham-profile.ssp1008.onine](https://soham-profile.ssp1008.online/)">
+  <img src = "https://www.vectorlogo.zone/logos/google/google-icon.svg" height="60" alt="LinkendIn"/>
   </a>
 <a href="https://www.linkedin.com/in/soham-patil-58b966282">
   <img src = "https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" height="70" alt="LinkendIn"/>
